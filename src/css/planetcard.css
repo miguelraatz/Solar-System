@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.img-planet {
+  width: 230px;
+}
+
+.name-planet {
+  font-size: 30px;
+  text-align: center;
+}

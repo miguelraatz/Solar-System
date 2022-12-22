@@ -1,0 +1,8 @@
+.container-missions {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}

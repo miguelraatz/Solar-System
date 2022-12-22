@@ -1,0 +1,18 @@
+.missions-card {
+  align-items: center;
+  background: rgb(255, 255, 255, 0.2);
+  border: 1px solid white;
+  border-radius: 2%;
+  color: white;
+  display: flex;
+  flex-flow: wrap column;
+  font-size: 28px;
+  justify-content: center;
+  margin: 20px;
+  padding: 30px;
+  width: 700px;
+}
+
+.missions-card p {
+  margin: 5px;
+}
